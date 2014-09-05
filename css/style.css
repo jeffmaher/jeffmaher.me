@@ -1,0 +1,10 @@
+@media (min-width: 327px) {
+	#intro-header {
+		background-image: url("../img/jm_at_corona_heights.jpg");
+		background-size: 100%;
+		color: white;
+	   	-webkit-text-fill-color: white;
+   		-webkit-text-stroke-width: 1px;
+		-webkit-text-stroke-color: black;
+	}	
+}
